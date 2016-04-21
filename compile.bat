@@ -9,9 +9,9 @@ if "%1" == "engine" goto compile_engine
 goto end
 
 :compile_web
-cd %PATH_COMPILE%\jakarta-software-data
+cd %PATH_COMPILE%\sablon-balon-data
 call mvn clean install
-cd %PATH_COMPILE%\jakarta-software-web
+cd %PATH_COMPILE%\sablon-balon-web
 call mvn clean package
 goto end
 
