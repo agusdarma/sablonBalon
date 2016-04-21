@@ -10,10 +10,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jakarta.software</groupId>
 	<artifactId>sablon-balon-data</artifactId>
-	<name>Jakarta Software Library</name>
+	<name>Sablon Balon Library</name>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
-	<description>Jakarta Software Data Library</description>
+	<description>Sablon Balon Data Library</description>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -45,10 +45,18 @@
 		</dependency>
 
 		<!-- Database Pooling -->
-		<dependency>
+		<!--  <dependency>
 			<groupId>commons-dbcp</groupId>
 			<artifactId>commons-dbcp</artifactId>
 			<version>1.4</version>
+		</dependency>
+		-->
+		
+		<dependency>
+		    <groupId>com.zaxxer</groupId>
+		    <artifactId>HikariCP</artifactId>
+		    <version>2.4.5</version>
+		    <scope>compile</scope>
 		</dependency>
 		
 		<!-- http client -->
@@ -76,7 +84,7 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>0.9.26</version>
+			<version>1.0.13</version>
 		</dependency>
 		<!-- Replacing Commons-Logging (used by Spring) with Logback -->
 		<dependency>
@@ -89,6 +97,12 @@
 			<artifactId>log4j-over-slf4j</artifactId>
 			<version>1.6.1</version>
 		</dependency>
+		
+		<dependency>
+	    <groupId>org.slf4j</groupId>
+	    <artifactId>slf4j-log4j12</artifactId>
+	    <version>1.7.14</version>
+	</dependency>
 		
 		<dependency>
 			<groupId>org.apache.commons</groupId>

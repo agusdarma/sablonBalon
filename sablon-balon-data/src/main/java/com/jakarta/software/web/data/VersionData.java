@@ -24,8 +24,8 @@ public class VersionData {
 	private String buildDate;
 	
 	public VersionData() {
-		appsName = "PT Jakarta Software Web Apps";
-		version = "1.0.0";
+		appsName = "Sablon Balon Apps";
+		version = "2.0.0";
 		SimpleDateFormat sdf = new SimpleDateFormat("dd MMMM yyyy, HH:mm");
 		
 		String buildNumber = "";
