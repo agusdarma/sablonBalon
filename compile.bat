@@ -1,6 +1,6 @@
 @echo off
 
-set PATH_COMPILE=D:\Personal\Project\gudangcoding
+set PATH_COMPILE=D:\Personal\Project\sablonBalon
 echo Compile %1 using path %PATH_COMPILE%
 if not "%2"=="" echo Additional Param: client=%2
 
