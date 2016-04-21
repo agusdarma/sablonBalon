@@ -52,13 +52,13 @@
 	<bean id="versionData" class="com.jakarta.software.web.data.VersionData" init-method="printInfo" />
 	
 	<!-- ========================= SCHEDULER ========================= -->
-	<bean id="syncTimeJob" class="com.jakarta.software.web.job.SyncTimeJob" init-method="syncTime" />
-
+	<bean id="syncTimeJob" class="com.jakarta.software.web.job.SyncTimeJob" />
+<!--
 	<task:scheduled-tasks scheduler="systemScheduler">
-		 <!-- run every 1 hour -->
+		 
 	    <task:scheduled ref="syncTimeJob" method="syncTime" cron="0 0 * * * ?"/>
 	</task:scheduled-tasks>
 	
 	<task:scheduler id="systemScheduler" pool-size="1" />
-	
+	-->
 </beans>
