@@ -98,7 +98,7 @@
 				<!-- /script-for-menu -->
 			</div>
 			<div class="col-md-3 header-logo">
-				<a href="index.html"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" alt="logo"/></a>
+				<a href="MainMenuWedo.web"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" alt="logo"/></a>
 			</div>	
 			<div class="clearfix"> </div>
 		</div>	

@@ -84,7 +84,7 @@
 					<li><a href="MainMenuWedo.web" class="active">HOME</a></li>
 					<li><a href="AboutWedo.web">ABOUT</a></li>
 					<li><a href="PortfolioWedo.web">PORTFOLIO</a></li>
-					<!--  <li><a href="samplepage.html">SAMPLE PAGE</a></li>-->
+					<!--  <li><a href="#">SAMPLE PAGE</a></li>-->
 					<li><a href="ContactWedo.web" >CONTACT</a></li>
 				</ul>	
 				<!-- script-for-menu -->
@@ -98,7 +98,7 @@
 				<!-- /script-for-menu -->
 			</div>
 			<div class="col-md-3 header-logo">
-				<a href="index.html"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" alt="logo"/></a>
+				<a href="MainMenuWedo.web"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" alt="logo"/></a>
 			</div>	
 			<div class="clearfix"> </div>
 		</div>	
@@ -162,7 +162,7 @@
 							<img src="<s:url value='/Resource/wedo/images/img1.jpg'/>" alt=""/>
 						</div>
 						<div class="port-caption">
-							<a href="samplepage.html">VIEW MORE</a>
+							<a href="#">VIEW MORE</a>
 						</div>
 					</div>
 				</div>
@@ -176,7 +176,7 @@
 							<img src="<s:url value='/Resource/wedo/images/img2.jpg'/>" alt=""/>
 						</div>
 						<div class="port-caption">
-							<a href="samplepage.html">VIEW MORE</a>
+							<a href="#">VIEW MORE</a>
 						</div>
 					</div>
 				</div>
@@ -190,7 +190,7 @@
 							<img src="<s:url value='/Resource/wedo/images/img3.jpg'/>" alt=""/>
 						</div>
 						<div class="port-caption">
-							<a href="samplepage.html">VIEW MORE</a>
+							<a href="#">VIEW MORE</a>
 						</div>
 					</div>
 				</div>
