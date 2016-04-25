@@ -84,8 +84,8 @@
 					<li><a href="MainMenuWedo.web">HOME</a></li>
 					<li><a href="AboutWedo.web" class="active">ABOUT</a></li>
 					<li><a href="PortfolioWedo.web">PORTFOLIO</a></li>
-					<li><a href="samplepage.html">SAMPLE PAGE</a></li>
-					<li><a href="contact.html" >CONTACT</a></li>
+					<!--  <li><a href="samplepage.html">SAMPLE PAGE</a></li>-->
+					<li><a href="ContactWedo.web" >CONTACT</a></li>
 				</ul>	
 				<!-- script-for-menu -->
 				 <script>
