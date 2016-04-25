@@ -14,6 +14,10 @@
 	    <action name="AboutWedo" class="com.jakarta.software.web.action.AboutAction">
             <result name="input">/WEB-INF/pages/wedo/about.jsp</result>
         </action>
+        
+	    <action name="PortfolioWedo" class="com.jakarta.software.web.action.PortfolioAction">
+            <result name="input">/WEB-INF/pages/wedo/portfolio.jsp</result>
+        </action>
 	    
 	    <action name="MainMenuJalil" class="com.jakarta.software.web.action.MainMenuAction">
             <result name="input">/WEB-INF/pages/jalil/main_menu.jsp</result>

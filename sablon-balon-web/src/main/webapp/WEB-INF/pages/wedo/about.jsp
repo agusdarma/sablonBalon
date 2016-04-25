@@ -83,7 +83,7 @@
 				<ul class="nav1">
 					<li><a href="MainMenuWedo.web">HOME</a></li>
 					<li><a href="AboutWedo.web" class="active">ABOUT</a></li>
-					<li><a href="portfolio.html">PORTFOLIO</a></li>
+					<li><a href="PortfolioWedo.web">PORTFOLIO</a></li>
 					<li><a href="samplepage.html">SAMPLE PAGE</a></li>
 					<li><a href="contact.html" >CONTACT</a></li>
 				</ul>	
