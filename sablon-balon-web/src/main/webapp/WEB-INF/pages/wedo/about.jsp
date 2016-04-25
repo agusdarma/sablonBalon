@@ -1,17 +1,15 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!doctype html>
+
+<!DOCTYPE html>
+<%@ page contentType="text/html"%>
+<%@ page pageEncoding="UTF-8"%>
+<%@ taglib uri="/struts-tags" prefix="s"%>
 <html>
 <head>
-	<title>Wedo a Corporate Flat bootstrap Responsive website Template | About :: w3layouts</title>
-	<link href="css/style.css" type="text/css" rel="stylesheet" media="all">
-	<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
-	<link rel="stylesheet" type="text/css" href="css/default.css" />
-	<link rel="stylesheet" type="text/css" href="css/component.css" />
+	<title>Wedo a Corporate Flat bootstrap Responsive website Template | Home :: w3layouts</title>
+	<link href="<s:url value='/Style/wedo/style.css'/>" type="text/css" rel="stylesheet" media="all">
+	<link href="<s:url value='/Style/wedo/bootstrap.css'/>" type="text/css" rel="stylesheet" media="all">
+	<link rel="stylesheet" type="text/css" href="<s:url value='/Style/wedo/default.css'/>" />
+	<link rel="stylesheet" type="text/css" href="<s:url value='/Style/wedo/component.css'/>" />
 	<!--web-font-->
 	<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 	<!--//web-font-->
@@ -24,12 +22,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<!-- //Custom Theme files -->
 	<!-- js -->
-	<script src="js/jquery.min.js"></script>
+	<script src="<s:url value='/Java Script/wedo/jquery.min.js'/>"></script>
 	<!-- //js -->	
 	<!-- start-smoth-scrolling-->
-	<script type="text/javascript" src="js/move-top.js"></script>
-	<script type="text/javascript" src="js/easing.js"></script>	
-	<script type="text/javascript" src="js/modernizr.custom.53451.js"></script>
+	<script type="text/javascript" src="<s:url value='/Java Script/wedo/move-top.js'/>"></script>
+	<script type="text/javascript" src="<s:url value='/Java Script/wedo/easing.js'/>"></script>	
+	<script type="text/javascript" src="<s:url value='/Java Script/wedo/modernizr.custom.53451.js'/>"></script>
 	<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
@@ -39,7 +37,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			});
 	</script>
 	<!--//end-smoth-scrolling-->
-	<script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
+	<script src="<s:url value='/Java Script/wedo/easyResponsiveTabs.js'/>" type="text/javascript"></script>
 		    <script type="text/javascript">
 			    $(document).ready(function () {
 			        $('#horizontalTab').easyResponsiveTabs({
@@ -49,6 +47,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			        });
 			    });
 	</script>
+	<!--smooth-scrolling-of-move-up-->
+		<script type="text/javascript">
+									$(document).ready(function() {
+										/*
+										var defaults = {
+								  			containerID: 'toTop', // fading element id
+											containerHoverID: 'toTopHover', // fading element hover id
+											scrollSpeed: 1200,
+											easingType: 'linear' 
+								 		};
+										*/
+										
+										$().UItoTop({ easingType: 'easeOutQuart' });
+										
+									});
+								</script>
+					<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	<!--//smooth-scrolling-of-move-up-->
 </head>
 <body>
 	<!--header-->
@@ -63,10 +79,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 		<div class="container">
 			<div class="col-md-9 top-nav">
-				<span class="menu"><img src="images/menu-icon.png" alt=""/></span>
+				<span class="menu"><img src="<s:url value='/Resource/wedo/images/menu-icon.png'/>" alt=""/></span>
 				<ul class="nav1">
-					<li><a href="index.html">HOME</a></li>
-					<li><a href="about.html" class="active">ABOUT</a></li>
+					<li><a href="MainMenuWedo.web">HOME</a></li>
+					<li><a href="AboutWedo.web" class="active">ABOUT</a></li>
 					<li><a href="portfolio.html">PORTFOLIO</a></li>
 					<li><a href="samplepage.html">SAMPLE PAGE</a></li>
 					<li><a href="contact.html" >CONTACT</a></li>
@@ -82,7 +98,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<!-- /script-for-menu -->
 			</div>
 			<div class="col-md-3 header-logo">
-				<a href="index.html"><img src="images/logo.png" alt="logo"/></a>
+				<a href="index.html"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" alt="logo"/></a>
 			</div>	
 			<div class="clearfix"> </div>
 		</div>	
@@ -99,7 +115,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised 
 					words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </p>
 				<div class="col-md-5 about-info-left">
-					<img src="images/img7.jpg" alt=""/>
+					<img src="<s:url value='/Resource/wedo/images/img7.jpg'/>" alt=""/>
 				</div>
 				<div class="col-md-7 about-info-right">
 					<h4>piece of classical Lorem Ipsum </h4>
@@ -139,7 +155,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="row">
 					<div class="col-sm-6 col-md-3 about-team-grids">
 						<div class="thumbnail">
-							<img src="images/img8.jpg" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/img8.jpg'/>" alt=""/>
 							<div class="caption">
 								<h4><a href="#">ELIGENDIEOS</a></h4>
 								<p>vero eos et accusamus et iusto odio dignissimos ducimus</p>
@@ -148,7 +164,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 					<div class="col-sm-6 col-md-3 about-team-grids">
 						<div class="thumbnail">
-							<img src="images/img9.jpg" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/img9.jpg'/>" alt=""/>
 							<div class="caption">
 								<h4><a href="#">DIGNISSIMOS</a></h4>
 								<p>vero eos et accusamus et iusto odio dignissimos ducimus</p>
@@ -157,7 +173,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 					<div class="col-sm-6 col-md-3 about-team-grids">
 						<div class="thumbnail">
-							<img src="images/img10.jpg" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/img10.jpg'/>" alt=""/>
 							<div class="caption">
 								<h4><a href="#">OPTIO CUMQUE LIBERO</a></h4>
 								<p>vero eos et accusamus et iusto odio dignissimos ducimus</p>
@@ -166,7 +182,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 					<div class="col-sm-6 col-md-3 about-team-grids">
 						<div class="thumbnail">
-							<img src="images/img11.jpg" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/img11.jpg'/>" alt=""/>
 							<div class="caption">
 								<h4><a href="#">NAMTEMPORE ELIGENDI</a></h4>
 								<p>vero eos et accusamus et iusto odio dignissimos ducimus</p>
@@ -182,27 +198,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="footer">
 		<div class="container">
 			<div class="footer-right">
-				<p>© 2015 All rights reserved | Template by <a href="http://w3layouts.com/"> W3layouts</a></p>
+				<p>Â© 2015 All rights reserved | Template by <a href="http://w3layouts.com/"> W3layouts</a></p>
 			</div>
 		</div>	
 	</div>
-	<!--smooth-scrolling-of-move-up-->
-		<script type="text/javascript">
-									$(document).ready(function() {
-										/*
-										var defaults = {
-								  			containerID: 'toTop', // fading element id
-											containerHoverID: 'toTopHover', // fading element hover id
-											scrollSpeed: 1200,
-											easingType: 'linear' 
-								 		};
-										*/
-										
-										$().UItoTop({ easingType: 'easeOutQuart' });
-										
-									});
-								</script>
-					<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
-	<!--//smooth-scrolling-of-move-up-->
+	
 </body>
 </html>	

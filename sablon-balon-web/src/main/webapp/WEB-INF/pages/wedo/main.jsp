@@ -81,8 +81,8 @@
 			<div class="col-md-9 top-nav">
 				<span class="menu"><img src="<s:url value='/Resource/wedo/images/menu-icon.png'/>" alt=""/></span>
 				<ul class="nav1">
-					<li><a href="index.html" class="active">HOME</a></li>
-					<li><a href="about.html">ABOUT</a></li>
+					<li><a href="MainMenuWedo.web" class="active">HOME</a></li>
+					<li><a href="AboutWedo.web">ABOUT</a></li>
 					<li><a href="portfolio.html">PORTFOLIO</a></li>
 					<li><a href="samplepage.html">SAMPLE PAGE</a></li>
 					<li><a href="contact.html" >CONTACT</a></li>
