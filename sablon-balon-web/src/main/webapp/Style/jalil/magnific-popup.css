@@ -223,15 +223,15 @@
 	opacity: 1; 
 }
 .nivo-lightbox-theme-default .nivo-lightbox-prev { 
-	background-image: url(../images/prev.png); 
+	background-image: url(../../Resource/jalil/images/prev.png); 
 }
 .nivo-lightbox-theme-default .nivo-lightbox-next { 
-	background-image: url(../images/next.png); 
+	background-image: url(../../Resource/jalil/images/next.png); 
 }
 
 .nivo-lightbox-theme-default .nivo-lightbox-close {
 	display: block;
-	background: url(../images/close1.png) no-repeat 0px -1px;
+	background: url(../../Resource/jalil/images/close1.png) no-repeat 0px -1px;
 	width: 16px;
 	height: 16px;
 	text-indent: -9999px;
