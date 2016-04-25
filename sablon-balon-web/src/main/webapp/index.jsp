@@ -1,2 +1,2 @@
 
-<% response.sendRedirect("MainMenuJalil.web"); %>
+<% response.sendRedirect("MainMenuWedo.web"); %>
