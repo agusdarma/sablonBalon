@@ -114,33 +114,30 @@
 						<a href="#"></a>
 					</div>
 					<div class="img-title">
-						<h4>WEB<br>DEVELOPMENT</h4>
+						<h4>ON TIME<br>DELIVERY</h4>
 					</div>
 					<div class="clearfix"> </div>
-					<p>Donec libero dui, scelerisque ac augue id, tristique ullamcorper elit. Nam ultrices, lacus vitae adipiscing aliquet, 
-						metus ipsum imperdiet libero, vitae dignissim sapien diam ac nibh convallis.</p>
+					<p>If you love life, don't waste time, for time is what life is made up of. Customer satisfaction is priority.</p>
 				</div>
 				<div class="col-md-4 services-grids-info">
 					<div class="srvs-image">
 						<a href="#" class="camera active"></a>
 					</div>
 					<div class="img-title">
-						<h4>QUALITY<br>PHOTOGRAPHY</h4>
+						<h4>REASONABLE<br>PRICE</h4>
 					</div>
 					<div class="clearfix"> </div>
-					<p>Donec libero dui, scelerisque ac augue id, tristique ullamcorper elit. Nam ultrices, lacus vitae adipiscing aliquet, 
-						metus ipsum imperdiet libero, vitae dignissim sapien diam ac nibh convallis.</p>
+					<p>That is a low price for high growth</p>
 				</div>
 				<div class="col-md-4 services-grids-info">
 					<div class="srvs-image">
 						<a href="#" class="support"></a>
 					</div>
 					<div class="img-title">
-						<h4>RELIABLE<br>SUPPORT</h4>
+						<h4>STOCK<br>AVAILABILITY</h4>
 					</div>
 					<div class="clearfix"> </div>
-					<p>Donec libero dui, scelerisque ac augue id, tristique ullamcorper elit. Nam ultrices, lacus vitae adipiscing aliquet, 
-						metus ipsum imperdiet libero, vitae dignissim sapien diam ac nibh convallis.</p>
+					<p>A happy customer might tell a friend, but an unhappy one will tell the world</p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -155,43 +152,49 @@
 				<div class="col-md-4 portfolio-grids">
 					<div class="port-grids">
 						<div class="port-text">
-							<h5>AMPERSAND & COFFEE</h5>
+							<h5>ELF ENGLISH COURSE</h5>
 							<span>24 January 2014</span>
 						</div>
 						<div class="port-image">
-							<img src="<s:url value='/Resource/wedo/images/img1.jpg'/>" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/1.jpg'/>" alt=""/>
 						</div>
+						<!--  
 						<div class="port-caption">
 							<a href="#">VIEW MORE</a>
 						</div>
+						-->
 					</div>
 				</div>
 				<div class="col-md-4 portfolio-grids">
 					<div class="port-grids">
 						<div class="port-text">
-							<h5>HUNTING BADGE</h5>
-							<span>24 January 2014</span>
+							<h5>PASAR RAYA CELEBRATION</h5>
+							<span>24 January 2015</span>
 						</div>
 						<div class="port-image">
-							<img src="<s:url value='/Resource/wedo/images/img2.jpg'/>" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/2.jpg'/>" alt=""/>
 						</div>
+						<!--  
 						<div class="port-caption">
 							<a href="#">VIEW MORE</a>
 						</div>
+						-->
 					</div>
 				</div>
 				<div class="col-md-4 portfolio-grids">
 					<div class="port-grids">
 						<div class="port-text">
-							<h5>CLOTHING WEBSITE</h5>
-							<span>24 January 2014</span>
+							<h5>BRI SYARIAH</h5>
+							<span>24 January 2016</span>
 						</div>
 						<div class="port-image">
-							<img src="<s:url value='/Resource/wedo/images/img3.jpg'/>" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/3.jpg'/>" alt=""/>
 						</div>
+						<!--  
 						<div class="port-caption">
 							<a href="#">VIEW MORE</a>
 						</div>
+						-->
 					</div>
 				</div>
 				<div class="clearfix"> </div>
@@ -200,6 +203,7 @@
 	</div>	
 	<!--//portfolio-->
 	<!--testimonials-->
+	<!--  
 	<div class="testimonials services">
 		<div class="container">
 			<h3>TESTIMONIALS</h3>
@@ -235,11 +239,12 @@
 			</div>		  
 		</div>
 	</div>	
+	-->
 	<!--//testimonials-->
 	<div class="footer">
 		<div class="container">
 			<div class="footer-right">
-				<p>© 2015 All rights reserved | Template by <a href="http://w3layouts.com/"> W3layouts</a></p>
+				<p>© 2013- 2015 All rights reserved | Powered by W3layouts </p>
 			</div>
 		</div>	
 	</div>
