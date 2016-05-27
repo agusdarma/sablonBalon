@@ -81,7 +81,7 @@
 				<span class="menu"><img src="<s:url value='/Resource/wedo/images/menu-icon.png'/>" alt=""/></span>
 				<ul class="nav1">
 					<li><a href="MainMenuWedo.web">HOME</a></li>
-					<li><a href="AboutWedo.web">ABOUT</a></li>
+					<!--  <li><a href="AboutWedo.web">ABOUT</a></li>-->
 					<li><a href="PortfolioWedo.web" class="active">PORTFOLIO</a></li>
 					<!--  <li><a href="samplepage.html">SAMPLE PAGE</a></li>-->
 					<li><a href="ContactWedo.web" >CONTACT</a></li>
@@ -97,7 +97,7 @@
 				<!-- /script-for-menu -->
 			</div>
 			<div class="col-md-3 header-logo">
-				<a href="MainMenuWedo.web"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" alt="logo"/></a>
+				<a href="MainMenuWedo.web"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" width="270px" height="270px" alt="logo"/></a>
 			</div>	
 			<div class="clearfix"> </div>
 		</div>	

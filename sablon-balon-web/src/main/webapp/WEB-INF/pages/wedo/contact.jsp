@@ -81,7 +81,7 @@
 				<span class="menu"><img src="<s:url value='/Resource/wedo/images/menu-icon.png'/>" alt=""/></span>
 				<ul class="nav1">
 					<li><a href="MainMenuWedo.web">HOME</a></li>
-					<li><a href="AboutWedo.web">ABOUT</a></li>
+					<!--  <li><a href="AboutWedo.web">ABOUT</a></li>-->
 					<li><a href="PortfolioWedo.web">PORTFOLIO</a></li>
 					<!--  <li><a href="samplepage.html">SAMPLE PAGE </a></li>-->
 					<li><a href="ContactWedo.web" class="active">CONTACT</a></li>
@@ -97,7 +97,7 @@
 				<!-- /script-for-menu -->
 			</div>
 			<div class="col-md-3 header-logo">
-				<a href="MainMenuWedo.web"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" alt="logo"/></a>
+				<a href="MainMenuWedo.web"><img src="<s:url value='/Resource/wedo/images/logo.png'/>" width="270px" height="270px" alt="logo"/></a>
 			</div>	
 			<div class="clearfix"> </div>
 		</div>	
@@ -111,34 +111,31 @@
 			</div>
 			<div class="map">
 				<h4>GET IN TOUCH</h4>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158858.182370726!2d-0.10159865000000001!3d51.52864165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C+UK!5e0!3m2!1sen!2sin!4v1433744055746" frameborder="0" style="border:0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.641953442233!2d106.77119881432006!3d-6.17865866226244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f6ff83e9b7f7%3A0xfd90893b51e86792!2sJl.+Duri+Intan+Raya%2C+Duri+Kepa%2C+Kb.+Jeruk%2C+Kota+Jakarta+Barat%2C+Daerah+Khusus+Ibukota+Jakarta!5e0!3m2!1sen!2sid!4v1464318832651" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 			<div class="contact-infom">
 				<h4>CONTACT INFO</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sheets containing Lorem Ipsum passages, 
-					sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.It was popularised in the 1960s with the release of Letraset
-					  and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+				<p></p>
 			</div>	
 			<div class="address">
 				<div class="address-left">
-					<h4>Address1 :</h4>
-					<p>Eiusmod Tempor inc</p>
-					<p>9560 St Dolore Place,</p>
-					<p>Telephone : +2 800 544 6035</p>
-					<p>FAX : +1 800 889 4444</p>
-					<p>Email : <a href="mailto:example@email.com">mail@example.com</a></p>
+					<h4>Address :</h4>
+					<p>Edward</p>
+					<p>Jalan Duri Intan Jakarta Barat Indonesia 11510</p>
+					<p>Mobile : 0817-4816-268</p>					
+					<p>Email : <a href="mailto:balonsablon@yahoo.com">balonsablon@yahoo.com</a></p>
 				</div>
-				<div class="address-left">
+				<!--  <div class="address-left">
 					<h4>Address2 :</h4>
 					<p>Tempor Eiusmod  inc</p>
 					<p>9560 St Dolore Place,</p>
 					<p>Telephone : +1 800 300 5555</p>
 					<p>FAX : +1 100 889 9466</p>
 					<p>Email : <a href="mailto:example@email.com">mail@example.com</a></p>
-				</div>	
+				</div>	-->
 				<div class="clearfix"> </div>
 			</div>
-			<div class="contact-form">
+			<!--  <div class="contact-form">
 				<h4>CONTACT FORM</h4>
 				<form>
 					<input type="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
@@ -148,6 +145,7 @@
 					<input type="submit" value="Submit" >
 				</form>
 			</div>
+			-->
 			
 		</div>
 	</div>
