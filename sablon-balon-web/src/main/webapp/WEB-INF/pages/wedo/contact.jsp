@@ -152,7 +152,7 @@
 	<div class="footer">
 		<div class="container">
 			<div class="footer-right">
-				<p>Â© 2015 All rights reserved | Template by <a href="http://w3layouts.com/"> W3layouts</a></p>
+				<p>© 2013- 2015 All rights reserved | Powered by W3layouts </p>
 			</div>
 		</div>	
 	</div>

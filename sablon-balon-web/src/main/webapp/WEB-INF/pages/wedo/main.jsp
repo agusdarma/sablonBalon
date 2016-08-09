@@ -152,43 +152,43 @@
 				<div class="col-md-4 portfolio-grids">
 					<div class="port-grids">
 						<div class="port-text">
-							<h5>ELF ENGLISH COURSE</h5>
-							<span>24 January 2014</span>
-						</div>
-						<div class="port-image">
-							<img src="<s:url value='/Resource/wedo/images/1.jpg'/>" alt=""/>
-						</div>
-						<!--  
-						<div class="port-caption">
-							<a href="#">VIEW MORE</a>
-						</div>
-						-->
-					</div>
-				</div>
-				<div class="col-md-4 portfolio-grids">
-					<div class="port-grids">
-						<div class="port-text">
-							<h5>PASAR RAYA CELEBRATION</h5>
-							<span>24 January 2015</span>
-						</div>
-						<div class="port-image">
-							<img src="<s:url value='/Resource/wedo/images/2.jpg'/>" alt=""/>
-						</div>
-						<!--  
-						<div class="port-caption">
-							<a href="#">VIEW MORE</a>
-						</div>
-						-->
-					</div>
-				</div>
-				<div class="col-md-4 portfolio-grids">
-					<div class="port-grids">
-						<div class="port-text">
-							<h5>BRI SYARIAH</h5>
+							<h5>JOB STREET</h5>
 							<span>24 January 2016</span>
 						</div>
 						<div class="port-image">
-							<img src="<s:url value='/Resource/wedo/images/3.jpg'/>" alt=""/>
+							<img src="<s:url value='/Resource/wedo/images/port/54.jpg'/>" alt=""/>
+						</div>
+						<!--  
+						<div class="port-caption">
+							<a href="#">VIEW MORE</a>
+						</div>
+						-->
+					</div>
+				</div>
+				<div class="col-md-4 portfolio-grids">
+					<div class="port-grids">
+						<div class="port-text">
+							<h5>MY GYM FITNESS</h5>
+							<span>24 February 2016</span>
+						</div>
+						<div class="port-image">
+							<img src="<s:url value='/Resource/wedo/images/port/40.jpg'/>" alt=""/>
+						</div>
+						<!--  
+						<div class="port-caption">
+							<a href="#">VIEW MORE</a>
+						</div>
+						-->
+					</div>
+				</div>
+				<div class="col-md-4 portfolio-grids">
+					<div class="port-grids">
+						<div class="port-text">
+							<h5>PIAGGIO</h5>
+							<span>14 February 2016</span>
+						</div>
+						<div class="port-image">
+							<img src="<s:url value='/Resource/wedo/images/port/16.jpg'/>" alt=""/>
 						</div>
 						<!--  
 						<div class="port-caption">

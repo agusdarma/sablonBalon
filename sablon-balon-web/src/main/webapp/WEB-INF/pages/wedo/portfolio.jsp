@@ -111,73 +111,358 @@
 			<div class="product">		
 				<ul id="filters">
 					<li><span class="filter active" data-filter="app card icon web">ALL</span></li>
-					<li><span class="filter" data-filter="app">AMPERSAND & COFFEE</span></li>
-					<li><span class="filter" data-filter="card">HUNTING BADGE </span></li>
-					<li><span class="filter" data-filter="icon">CLOTHING WEBSITE</span></li>
+					<!--  <li><span class="filter" data-filter="app">ON PROGRESS</span></li>
+					<li><span class="filter" data-filter="card">DONE</span></li>
+					<li><span class="filter" data-filter="icon">CLOTHING WEBSITE</span></li>-->
 				</ul>
 				<div id="portfoliolist">
 					<div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper">
-							<a href="<s:url value='/Resource/wedo/images/img13.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img13.jpg'/>" alt="" class="img-responsive zoom-img"/>
+							<a href="<s:url value='/Resource/wedo/images/port/1.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/1.jpg'/>" alt="" class="img-responsive zoom-img"/>
 							</a>
 						</div>	
 					</div>				
 					<div class="portfolio icon mix_all" data-cat="icon" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img12.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img12.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/2.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/2.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>		
 					<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img14.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img14.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/3.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/3.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>	
 					<div class="portfolio icon mix_all" data-cat="icon" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img18.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img18.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/4.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/4.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>					
 					<div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img16.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img16.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/5.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/5.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>	
 					<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img17.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img17.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/6.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/6.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>			
 					<div class="portfolio icon mix_all" data-cat="icon" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img15.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img15.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/7.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/7.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>
 					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img19.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img19.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/8.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/8.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>
 					<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img20.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img20.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/9.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/9.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>
 					<div class="portfolio icon mix_all" data-cat="icon" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img21.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img21.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/10.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/10.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>
 					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img23.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img23.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/11.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/12.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
 					</div>
 					<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
-						<a href="<s:url value='/Resource/wedo/images/img22.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Image Title">
-								<img src="<s:url value='/Resource/wedo/images/img22.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						<a href="<s:url value='/Resource/wedo/images/port/13.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/13.jpg'/>" alt="" class="img-responsive zoom-img"/>
 						</a>
-					</div>					
+					</div>	
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/14.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/14.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>	
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/15.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/15.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>			
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/16.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/16.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/17.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/17.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/18.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/18.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/19.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/19.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/20.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/20.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/21.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/21.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/22.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/22.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/23.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/23.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/24.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/24.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/25.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/25.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/26.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/26.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/27.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/27.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/28.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/28.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/29.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/29.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/30.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/30.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/31.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/31.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/32.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/32.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/33.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/33.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/34.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/34.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/35.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/35.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/36.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/36.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/37.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/37.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/38.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/38.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/39.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/39.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/40.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/40.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/41.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/41.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/42.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/42.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/43.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/43.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/44.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/44.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/45.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/45.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/46.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/46.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/47.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/47.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/48.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/48.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/49.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/49.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/50.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/50.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/51.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/51.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/52.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/52.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/53.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/53.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/54.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/54.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/55.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/55.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/56.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/56.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/57.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/57.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/58.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/58.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/59.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/59.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/60.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/60.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/61.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/61.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/62.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/62.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/63.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/63.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/64.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/64.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/65.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/65.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/66.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/66.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/67.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/67.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/68.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/68.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/69.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/69.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
+					<div class="portfolio app mix_all " data-cat="app" style="display: inline-block; opacity: 1;">
+						<a href="<s:url value='/Resource/wedo/images/port/70.jpg'/>" class=" mask b-link-stripe b-animate-go   swipebox"  title="Portfolio Balon">
+								<img src="<s:url value='/Resource/wedo/images/port/70.jpg'/>" alt="" class="img-responsive zoom-img"/>
+						</a>
+					</div>
 					<div class="clearfix"> </div>
 				</div>	
 				<!-- Script for gallery Here -->
@@ -239,7 +524,7 @@
 	<div class="footer">
 		<div class="container">
 			<div class="footer-right">
-				<p>Â© 2015 All rights reserved | Template by <a href="http://w3layouts.com/"> W3layouts</a></p>
+				<p>© 2013- 2015 All rights reserved | Powered by W3layouts </p>
 			</div>
 		</div>	
 	</div>
