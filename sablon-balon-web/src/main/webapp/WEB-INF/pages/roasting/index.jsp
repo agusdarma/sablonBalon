@@ -25,7 +25,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 </head>
 <body>
 	<script src="<s:url value='/Java Script/roasting/jquery.vide.min.js'/>"></script>
-	<div data-vide-bg="video/tr">
+	<div data-vide-bg="<s:url value='/Resource/roasting/video/tr'/>">
 		<div class="banner">
 			<div class="header-top">
 				<div class="container">
@@ -44,13 +44,13 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			<div class="container">
 				<div class="navigation">
 					<div class="logo">
-						<h1><a href="index.html">Roasting</a></h1>
+						<h1><a href="index.jsp">Roasting</a></h1>
 					</div>
 					<div class="navigation-right">
 						<span class="menu"><img src="<s:url value='/Resource/roasting/images/menu.png'/>" alt=" " /></span>
 						<nav class="link-effect-3" id="link-effect-3">
 							<ul class="nav1 nav nav-wil">
-								<li class="active"><a data-hover="Home" href="index.html">Home</a></li>
+								<li class="active"><a data-hover="Home" href="index.jsp">Home</a></li>
 								<li><a data-hover="About" href="about.html">About</a></li>
 								<li><a data-hover="Services" href="services.html" >Services</a></li>
 								<li><a data-hover="Gallery" href="gallery.html">Gallery</a></li>
