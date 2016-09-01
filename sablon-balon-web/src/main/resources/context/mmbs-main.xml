@@ -8,7 +8,7 @@
 	<package name="mmbs-main" extends="mmbs-base"> 
 	    
 	    <action name="MainMenuWedo" class="com.jakarta.software.web.action.MainMenuAction">
-            <result name="input">/WEB-INF/pages/wedo/main.jsp</result>
+            <result name="input">/WEB-INF/pages/roasting/index.jsp</result>
         </action>
         
 	    <action name="AboutWedo" class="com.jakarta.software.web.action.AboutAction">
