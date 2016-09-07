@@ -50,11 +50,11 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<nav class="link-effect-3" id="link-effect-3">
 							<ul class="nav1 nav nav-wil">
 								<li class="active"><a data-hover="Home" href="index.jsp">Home</a></li>
-								<li><a data-hover="About" href="about.html">About</a></li>
-								<li><a data-hover="Services" href="services.html" >Services</a></li>
-								<li><a data-hover="Gallery" href="gallery.html">Gallery</a></li>
-								<li><a data-hover="Codes" href="codes.html">Codes</a></li>
-								<li><a data-hover="Contact" href="contact.html">Contact</a></li>
+								<li><a data-hover="About" href="#">About</a></li>
+								<li><a data-hover="Services" href="#" >Services</a></li>
+								<li><a data-hover="Gallery" href="#">Gallery</a></li>
+								<li><a data-hover="Codes" href="#">Codes</a></li>
+								<li><a data-hover="Contact" href="#">Contact</a></li>
 							</ul>
 						</nav>
 								<!-- script-for-menu -->
@@ -277,18 +277,15 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="col-md-3 footer-grid">
 							<h4>Our Special</h4>
 							<ul>
-								<li>Eiusmod tempor incididunt</li>
-								<li>Adipisicing elit, sed</li>
-								<li>Mod tempor incididunt ut</li>
-								<li>Dipisicing elit, sed do</li>
-								<li>Econsectetur adipisicing</li>
-								<li>Adipisicing elit, sed</li>
-								<li>Mod tempor incididunt ut</li>
+								<li>On time delivery</li>
+								<li>Reasonable Price</li>
+								<li>Stock availability</li>
+								<li>Best quality</li>								
 							</ul>
 						</div>
 						<div class="col-md-3 footer-grid">
 							<h4>Popular</h4>
-							<ul>
+							<!--  <ul>
 								<li>Desserts</li>
 								<li>Wet Sabzi</li>
 								<li>Chicken</li>
@@ -296,6 +293,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 								<li>Burger</li>
 								<li>Seafood</li>
 							</ul>
+							-->
 						</div>
 						<div class="col-md-3 footer-grid">
 							<h4> Member Area</h4>
