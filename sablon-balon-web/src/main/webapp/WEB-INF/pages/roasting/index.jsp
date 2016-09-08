@@ -139,9 +139,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic2.jpg'/>" class="img-responsive gray" alt=""/>
-							<div class="menu-icon hvr-sweep-to-top">
+							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
-							</div>
+							</div>-->
 						</div>
 						<!--  <div class="menu-bottom">
 							<h4>Fried Chicken</h4>
@@ -153,9 +153,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic3.jpg'/>" class="img-responsive gray" alt=""/>
-							<div class="menu-icon hvr-sweep-to-top">
+							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
-							</div>
+							</div>-->
 						</div>
 						<!--<div class="menu-bottom">
 							<h4>Sandwich</h4>
@@ -167,9 +167,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic4.jpg'/>" class="img-responsive gray" alt=""/>
-							<div class="menu-icon hvr-sweep-to-top">
+							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
-							</div>
+							</div>-->
 						</div>
 						<!--<div class="menu-bottom">
 							<h4>Goat Cheese </h4>
@@ -184,9 +184,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic5.jpg'/>" class="img-responsive gray" alt=""/>
-							<div class="menu-icon hvr-sweep-to-top">
+							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-headphones" aria-hidden="true"></i>
-							</div>
+							</div>-->
 						</div>
 						<!--<div class="menu-bottom">
 							<h4>Seafood </h4>
@@ -198,9 +198,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic6.jpg'/>" class="img-responsive gray" alt=""/>
-							<div class="menu-icon hvr-sweep-to-top">
+							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-time" aria-hidden="true"></i>
-							</div>
+							</div>-->
 						</div>
 						<!--  <div class="menu-bottom">
 							<h4>grill chicken</h4>
@@ -211,9 +211,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic7.jpg'/>" class="img-responsive gray" alt=""/>
-							<div class="menu-icon hvr-sweep-to-top">
+							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
-							</div>
+							</div>-->
 						</div>
 						<!--  <div class="menu-bottom">
 							<h4>Pasta Food </h4>
