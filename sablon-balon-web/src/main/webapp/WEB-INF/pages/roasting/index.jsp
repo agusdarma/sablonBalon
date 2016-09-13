@@ -90,21 +90,24 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</div>
 					<div class="col-md-8 best-grid">
 						<h4>What we offer </h4>
-						<p>???????</p>
+						<p>- Harga yang masuk akal
+- Ketersediaan stok yg cukup banyak
+- Pengiriman menggunakan ekspedisi terpercaya
+- Kualitas balon yang baik</p>
 						<div class="best-bottom">
 							<div class="col-md-6 best-left">
 								<div class="icons">
 									<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
 								</div>
 								<h5>On time delivery</h5>
-								<p>????</p>
+								<p>Kami menggunakan jasa pengiriman terpercaya sehingga sangat kecil kemungkinanannya untuk terlambat</p>
 							</div>
 							<div class="col-md-6 best-right">
 								<div class="icons">
 									<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
 								</div>
 								<h5>Reasonable Price</h5>
-								<p>?????</p>
+								<p>Dikarenakan kita produksi sendiri maka harga yang di tawarkan cukup bersainh dengan kompetitor lain</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -114,7 +117,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 									<i class="glyphicon glyphicon-headphones" aria-hidden="true"></i>
 								</div>
 								<h5>Stock availability</h5>
-								<p>????</p>
+								<p>Dengan kita yang memproduksi barang tersebut sendiri kita tidak perlu mengkhawatirkan stock apabila ada perjanjian maka pasti dapat kita penuhi</p>
 							</div>
 							<div class="col-md-6 best-right">
 								<div class="icons">
