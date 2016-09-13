@@ -90,10 +90,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</div>
 					<div class="col-md-8 best-grid">
 						<h4>What we offer </h4>
-						<p>- Harga yang masuk akal
-- Ketersediaan stok yg cukup banyak
-- Pengiriman menggunakan ekspedisi terpercaya
-- Kualitas balon yang baik</p>
+						<p>Harga yang masuk akal,ketersediaan stok yg cukup banyak,pengiriman menggunakan ekspedisi terpercaya,kualitas balon yang baik</p>
 						<div class="best-bottom">
 							<div class="col-md-6 best-left">
 								<div class="icons">
