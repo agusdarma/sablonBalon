@@ -90,7 +90,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</div>
 					<div class="col-md-8 best-grid">
 						<h4>What we offer </h4>
-						<p>Harga yang masuk akal,ketersediaan stok yg cukup banyak,pengiriman menggunakan ekspedisi terpercaya,kualitas balon yang baik</p>
+						<p>Harga yang bersaing dan ketersediaan stock yang terjamin di dukung  pula dengan ekspedisi yang terpercaya kita akan memberikan yang terbaik untuk konsumen</p>
 						<div class="best-bottom">
 							<div class="col-md-6 best-left">
 								<div class="icons">
@@ -104,7 +104,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 									<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
 								</div>
 								<h5>Reasonable Price</h5>
-								<p>Dikarenakan kita produksi sendiri maka harga yang di tawarkan cukup bersainh dengan kompetitor lain</p>
+								<p>Harga yang di tawarkan cukup bersaing karena kami produsen bukan reseller</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -114,14 +114,14 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 									<i class="glyphicon glyphicon-headphones" aria-hidden="true"></i>
 								</div>
 								<h5>Stock availability</h5>
-								<p>Dengan kita yang memproduksi barang tersebut sendiri kita tidak perlu mengkhawatirkan stock apabila ada perjanjian maka pasti dapat kita penuhi</p>
+								<p>Ketersediaan stock terjamin karena kami memproduksi produk sendiri</p>
 							</div>
 							<div class="col-md-6 best-right">
 								<div class="icons">
 									<i class="glyphicon glyphicon-time" aria-hidden="true"></i>
 								</div>
 								<h5>Best quality</h5>
-								<p>???</p>
+								<p>Untuk memenuhi kebutuhan pelanggan pemilihan bahan baku untuk produksi dan tinta sudah menjadi prioritas kami sehingga tidak usah di ragukan lagi</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
