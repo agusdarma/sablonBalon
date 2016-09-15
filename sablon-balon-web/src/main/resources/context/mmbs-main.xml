@@ -7,12 +7,16 @@
 
 	<package name="mmbs-main" extends="mmbs-base"> 
 	    
-	    <action name="MainMenuWedo" class="com.jakarta.software.web.action.MainMenuAction">
+	    <action name="MainMenu" class="com.jakarta.software.web.action.MainMenuAction">
             <result name="input">/WEB-INF/pages/roasting/index.jsp</result>
         </action>
         
 	    <action name="AboutWedo" class="com.jakarta.software.web.action.AboutAction">
-            <result name="input">/WEB-INF/pages/wedo/about.jsp</result>
+            <result name="input">/WEB-INF/pages/roasting/index.jsp</result>
+        </action>
+        
+	    <action name="Services" class="com.jakarta.software.web.action.ServiceAction">
+            <result name="input">/WEB-INF/pages/roasting/services.jsp</result>
         </action>
         
 	    <action name="PortfolioWedo" class="com.jakarta.software.web.action.PortfolioAction">
