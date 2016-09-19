@@ -24,7 +24,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 </head>
 <body>
 	<script src="<s:url value='/Java Script/roasting/jquery.vide.min.js'/>"></script>
-	<div data-vide-bg="<s:url value='/Resource/roasting/video/vd'/>">
+	<div  data-vide-bg="poster:<s:url value='/Resource/roasting/video/vd'/>" data-vide-options="posterType: jpg">
 		<div class="banner">
 			<div class="header-top">
 				<div class="container">
@@ -50,9 +50,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<nav class="link-effect-3" id="link-effect-3">
 							<ul class="nav1 nav nav-wil">
 								<li class="active"><a data-hover="Home" href="MainMenu.web">Home</a></li>
-								<li><a data-hover="Services" href="Services.web" >Services</a></li>
+								<!-- <li><a data-hover="Services" href="Services.web" >Services</a></li> -->
 								<li><a data-hover="Gallery" href="#">Gallery</a></li>
-								<li><a data-hover="Codes" href="#">Codes</a></li>
+								<!-- <li><a data-hover="Codes" href="#">Codes</a></li> -->
 								<li><a data-hover="Contact" href="#">Contact</a></li>
 							</ul>
 						</nav>
@@ -93,14 +93,14 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="best-bottom">
 							<div class="col-md-6 best-left">
 								<div class="icons">
-									<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
+									<i class="glyphicon glyphicon-time" aria-hidden="true"></i>
 								</div>
 								<h5>On time delivery</h5>
 								<p>Kami menggunakan jasa pengiriman terpercaya sehingga sangat kecil kemungkinanannya untuk terlambat</p>
 							</div>
 							<div class="col-md-6 best-right">
 								<div class="icons">
-									<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
+									<i class="glyphicon glyphicon-credit-card" aria-hidden="true"></i>
 								</div>
 								<h5>Reasonable Price</h5>
 								<p>Harga yang di tawarkan cukup bersaing karena kami produsen bukan reseller</p>
@@ -110,14 +110,14 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="best-bottom">
 							<div class="col-md-6 best-left">
 								<div class="icons">
-									<i class="glyphicon glyphicon-headphones" aria-hidden="true"></i>
+									<i class="glyphicon glyphicon-floppy-saved" aria-hidden="true"></i>
 								</div>
 								<h5>Stock availability</h5>
 								<p>Ketersediaan stock terjamin karena kami memproduksi produk sendiri</p>
 							</div>
 							<div class="col-md-6 best-right">
 								<div class="icons">
-									<i class="glyphicon glyphicon-time" aria-hidden="true"></i>
+									<i class="glyphicon glyphicon-certificate" aria-hidden="true"></i>
 								</div>
 								<h5>Best quality</h5>
 								<p>Untuk memenuhi kebutuhan pelanggan pemilihan bahan baku untuk produksi dan tinta sudah menjadi prioritas kami sehingga tidak usah di ragukan lagi</p>
@@ -224,6 +224,59 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</div>
 			</div>
 		</div>
+		<!--content-->
+		<div class="content">			
+			<!--mission-->
+			<div class="special-w3">
+				<div class="container">
+					<h3 class="tittle1">Price List</h3>
+					<div class="special-grids">
+						<div class="col-md-4 menu-grid">
+							<div class="menu1">
+								<img src="<s:url value='/Resource/roasting/images/harga_balon_dove.jpg'/>" class="img-responsive gray" alt=""/>
+								<!-- <div class="menu-icon hvr-sweep-to-top">
+									<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
+								</div> -->
+							</div>
+							<div class="menu-bottom">
+								<h4>Balon Dove</h4>
+								<!-- <p>Balon dove memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> -->
+								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.200,- </a>
+							</div>
+						</div>
+						<div class="col-md-4 menu-grid">
+							<div class="menu1">
+								<img src="<s:url value='/Resource/roasting/images/harga_balon_besar.jpg'/>" class="img-responsive gray" alt=""/>
+								<!-- <div class="menu-icon hvr-sweep-to-top">
+									<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
+								</div> -->
+							</div>
+							<div class="menu-bottom">
+								<h4>Balon Oval</h4>
+								<!-- <p>Balon Besar  memiliki ukuran (Panjang 13 cm  diameter 6 cm)</p> -->
+								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.300,- </a>
+							</div>
+						</div>
+						<div class="col-md-4 menu-grid">
+							<div class="menu1">
+								<img src="<s:url value='/Resource/roasting/images/harga_balon_metalik.jpg'/>" class="img-responsive gray" alt=""/>
+								<!-- <div class="menu-icon hvr-sweep-to-top">
+									<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
+								</div> -->
+							</div>
+							<div class="menu-bottom">
+								<h4>Balon Metalik</h4>
+								<!-- <p>Balon Metalik memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> -->
+								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.600,- </a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+			<!--mission-->
+		</div>
+		<!--content-->
 		<!--menu-->
 		<!--special dishes-->
 			<!--  <div class="dishes-w3ls">
