@@ -233,7 +233,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="special-grids">
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
-								<img src="<s:url value='/Resource/roasting/images/harga_balon_dove.jpg'/>" class="img-responsive gray" alt=""/>
+								<img src="<s:url value='/Resource/roasting/images/harga_dove.jpg'/>" class="img-responsive gray" alt=""/>
 								<!-- <div class="menu-icon hvr-sweep-to-top">
 									<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
 								</div> -->
@@ -246,7 +246,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						</div>
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
-								<img src="<s:url value='/Resource/roasting/images/harga_balon_besar.jpg'/>" class="img-responsive gray" alt=""/>
+								<img src="<s:url value='/Resource/roasting/images/harga_besar.jpg'/>" class="img-responsive gray" alt=""/>
 								<!-- <div class="menu-icon hvr-sweep-to-top">
 									<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
 								</div> -->
@@ -259,7 +259,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						</div>
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
-								<img src="<s:url value='/Resource/roasting/images/harga_balon_metalik.jpg'/>" class="img-responsive gray" alt=""/>
+								<img src="<s:url value='/Resource/roasting/images/harga_metalik.jpg'/>" class="img-responsive gray" alt=""/>
 								<!-- <div class="menu-icon hvr-sweep-to-top">
 									<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
 								</div> -->
