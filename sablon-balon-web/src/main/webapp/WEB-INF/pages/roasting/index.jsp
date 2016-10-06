@@ -252,7 +252,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 								</div> -->
 							</div>
 							<div class="menu-bottom">
-								<h4>Balon Oval</h4>
+								<h4>Balon Besar</h4>
 								<!-- <p>Balon Besar  memiliki ukuran (Panjang 13 cm  diameter 6 cm)</p> -->
 								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.300,- </a>
 							</div>
