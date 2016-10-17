@@ -238,11 +238,11 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 									<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
 								</div> -->
 							</div>
-							<div class="menu-bottom">
+							<!--<div class="menu-bottom">
 								<h4>Balon Dove</h4>
-								<!-- <p>Balon dove memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> -->
+								 <p>Balon dove memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> 
 								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.200,- </a>
-							</div>
+							</div>-->
 						</div>
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
@@ -251,11 +251,11 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 									<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
 								</div> -->
 							</div>
-							<div class="menu-bottom">
+							<!--<div class="menu-bottom">
 								<h4>Balon Besar</h4>
-								<!-- <p>Balon Besar  memiliki ukuran (Panjang 13 cm  diameter 6 cm)</p> -->
+								 <p>Balon Besar  memiliki ukuran (Panjang 13 cm  diameter 6 cm)</p> 
 								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.300,- </a>
-							</div>
+							</div>-->
 						</div>
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
@@ -264,11 +264,11 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 									<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
 								</div> -->
 							</div>
-							<div class="menu-bottom">
+							<!--<div class="menu-bottom">
 								<h4>Balon Metalik</h4>
-								<!-- <p>Balon Metalik memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> -->
+								 <p>Balon Metalik memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> 
 								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.600,- </a>
-							</div>
+							</div>-->
 						</div>
 						<div class="clearfix"></div>
 					</div>
