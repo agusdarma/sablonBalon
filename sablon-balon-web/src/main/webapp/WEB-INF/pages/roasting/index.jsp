@@ -137,7 +137,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<div class="special-grids">
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic2.jpg'/>" class="img-responsive gray" alt=""/>
+							<img src="<s:url value='/Resource/roasting/images/pic14.jpg'/>" class="img-responsive gray" alt=""/>
 							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
 							</div>-->
@@ -151,7 +151,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic3.jpg'/>" class="img-responsive gray" alt=""/>
+							<img src="<s:url value='/Resource/roasting/images/picrame.jpg'/>" class="img-responsive gray" alt=""/>
 							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
 							</div>-->
@@ -182,43 +182,54 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<div class="special-grids">
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic5.jpg'/>" class="img-responsive gray" alt=""/>
-							<!--<div class="menu-icon hvr-sweep-to-top">
-								<i class="glyphicon glyphicon-headphones" aria-hidden="true"></i>
-							</div>-->
-						</div>
-						<!--<div class="menu-bottom">
-							<h4>Seafood </h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare odio et massa dignissim, at accumsan metus viverra.</p>
-							<a href="gallery.html" class="button  hvr-sweep-to-bottom">Starting Price  $2.0</a>
-						</div>
-						-->
+							<img src="<s:url value='/Resource/roasting/images/pic5.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>						
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic6.jpg'/>" class="img-responsive gray" alt=""/>
-							<!--<div class="menu-icon hvr-sweep-to-top">
-								<i class="glyphicon glyphicon-time" aria-hidden="true"></i>
-							</div>-->
-						</div>
-						<!--  <div class="menu-bottom">
-							<h4>grill chicken</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare odio et massa dignissim, at accumsan metus viverra.</p>
-							<a href="gallery.html" class="button  hvr-sweep-to-bottom">Starting Price  $2.0</a>
-						</div>-->
+							<img src="<s:url value='/Resource/roasting/images/pic6.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>						
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic7.jpg'/>" class="img-responsive gray" alt=""/>
-							<!--<div class="menu-icon hvr-sweep-to-top">
-								<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
-							</div>-->
-						</div>
-						<!--  <div class="menu-bottom">
-							<h4>Pasta Food </h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare odio et massa dignissim, at accumsan metus viverra.</p>
-							<a href="gallery.html" class="button  hvr-sweep-to-bottom">Starting Price  $2.0</a>
-						</div>-->
+							<img src="<s:url value='/Resource/roasting/images/pic7.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>						
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="special-grids">
+					<div class="col-md-4 menu-grid">
+						<div class="menu1">
+							<img src="<s:url value='/Resource/roasting/images/pic8.jpg'/>" class="img-responsive gray" alt=""/>						
+						</div>						
+					</div>
+					<div class="col-md-4 menu-grid">
+						<div class="menu1">
+							<img src="<s:url value='/Resource/roasting/images/pic9.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>						
+					</div>
+					<div class="col-md-4 menu-grid">
+						<div class="menu1">
+							<img src="<s:url value='/Resource/roasting/images/pic10.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>						
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="special-grids">
+					<div class="col-md-4 menu-grid">
+						<div class="menu1">
+							<img src="<s:url value='/Resource/roasting/images/pic11.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>					
+					</div>
+					<div class="col-md-4 menu-grid">
+						<div class="menu1">
+							<img src="<s:url value='/Resource/roasting/images/pic12.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>						
+					</div>
+					<div class="col-md-4 menu-grid">
+						<div class="menu1">
+							<img src="<s:url value='/Resource/roasting/images/pic13.jpg'/>" class="img-responsive gray" alt=""/>							
+						</div>						
 					</div>
 					<div class="clearfix"></div>
 				</div>
