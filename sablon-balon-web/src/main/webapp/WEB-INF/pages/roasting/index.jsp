@@ -82,10 +82,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<!--best-->
 		<div class="best-w3">
 			<div class="container">
-				<h2 class="tittle">Why choose me?? </h2>
+				<h2 class="tittle">Why choose us?? </h2>
 				<div class="best-grids">
-					<div class="col-md-4 best-grid1">
-						<img src="<s:url value='/Resource/roasting/images/pic1.jpg'/>" class="img-responsive gray" alt=""/>
+					<div class="col-md-13 best-grid1">
+						<img src="<s:url value='/Resource/roasting/images/picrame.jpg'/>" class="img-responsive gray" alt=""/>
 					</div>
 					<div class="col-md-8 best-grid">
 						<h4>What we offer </h4>
@@ -151,7 +151,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/picrame.jpg'/>" class="img-responsive gray" alt=""/>
+							<img src="<s:url value='/Resource/roasting/images/pic8.jpg'/>" class="img-responsive gray" alt=""/>
 							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
 							</div>-->
@@ -165,7 +165,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic4.jpg'/>" class="img-responsive gray" alt=""/>
+							<img src="<s:url value='/Resource/roasting/images/pic9.jpg'/>" class="img-responsive gray" alt=""/>
 							<!--<div class="menu-icon hvr-sweep-to-top">
 								<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
 							</div>-->
@@ -182,53 +182,17 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<div class="special-grids">
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic5.jpg'/>" class="img-responsive gray" alt=""/>							
-						</div>						
-					</div>
-					<div class="col-md-4 menu-grid">
-						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic6.jpg'/>" class="img-responsive gray" alt=""/>							
-						</div>						
-					</div>
-					<div class="col-md-4 menu-grid">
-						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic7.jpg'/>" class="img-responsive gray" alt=""/>							
-						</div>						
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="special-grids">
-					<div class="col-md-4 menu-grid">
-						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic8.jpg'/>" class="img-responsive gray" alt=""/>						
-						</div>						
-					</div>
-					<div class="col-md-4 menu-grid">
-						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic9.jpg'/>" class="img-responsive gray" alt=""/>							
-						</div>						
-					</div>
-					<div class="col-md-4 menu-grid">
-						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic10.jpg'/>" class="img-responsive gray" alt=""/>							
 						</div>						
 					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="special-grids">
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic11.jpg'/>" class="img-responsive gray" alt=""/>							
-						</div>					
+						</div>						
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
 							<img src="<s:url value='/Resource/roasting/images/pic12.jpg'/>" class="img-responsive gray" alt=""/>							
-						</div>						
-					</div>
-					<div class="col-md-4 menu-grid">
-						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic13.jpg'/>" class="img-responsive gray" alt=""/>							
 						</div>						
 					</div>
 					<div class="clearfix"></div>

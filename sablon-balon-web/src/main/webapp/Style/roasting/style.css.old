@@ -189,14 +189,11 @@ h2.tittle {
     font-size: 2em;
     text-transform: capitalize;
     margin-bottom: 0.5em;
-    margin-top: 0.5em;
 	color:#F19E1F;
-    text-align: center; 
 }
 .best-grid p {
     font-size: 1em;
     line-height: 1.8em;
-    text-align: center;
 }
 .best-bottom {
     text-align: center;
