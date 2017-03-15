@@ -46,13 +46,13 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			<div class="container">
 				<div class="navigation">
 					<div class="logo">
-						<h1><a href="MainMenu.web">SablonBalon</a></h1>
+						<h1><a href="Home.web">SablonBalon</a></h1>
 					</div>
 					<div class="navigation-right">
 						<span class="menu"><img src="<s:url value='/Resource/roasting/images/menu.png'/>" alt=" " /></span>
 						<nav class="link-effect-3" id="link-effect-3">
 							<ul class="nav1 nav nav-wil">
-								<li class="active"><a data-hover="Home" href="MainMenu.web">Home</a></li>
+								<li class="active"><a data-hover="Home" href="Home.web">Home</a></li>
 								<!-- <li><a data-hover="Services" href="Services.web" >Services</a></li> -->
 								<li><a data-hover="Gallery" href="#">Gallery</a></li>
 								<!-- <li><a data-hover="Codes" href="#">Codes</a></li> -->
