@@ -7,7 +7,7 @@
 
 	<package name="mmbs-main" extends="mmbs-base"> 
 	    
-	    <action name="MainMenu" class="com.jakarta.software.web.action.MainMenuAction">
+	    <action name="Home" class="com.jakarta.software.web.action.MainMenuAction">
             <result name="input">/WEB-INF/pages/roasting/index.jsp</result>
         </action>
         

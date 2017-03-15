@@ -4,7 +4,7 @@
 <%@ taglib uri="/struts-tags" prefix="s"%>
 <html>
 <head>
-<title>Balon Sablon Jakarta |Sablon Murah Jakarta | Balon Sablon Surabaya | Home</title>
+<title>SablonBalon.com - Perusahaan Sablon Balon No 1 Di Indonesia</title>
 <!---->
 <link href="<s:url value='/Style/roasting/bootstrap.css'/>" rel="stylesheet" type="text/css" media="all" />
 <link href="<s:url value='/Style/roasting/style.css'/>" rel="stylesheet" type="text/css" media="all" />	
@@ -12,8 +12,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta property="og:title" content="Vide" />
-<meta name="keywords" content="Sablon,Sablon Balon,Balon,Sablon murah,Sablon Jakarta, Sablon Surabaya,Vendor Sablon" />
+<meta name="keywords" content="Sablon,Sablon Balon,Balon,Sablon murah,Sablon Jakarta, Sablon Surabaya,Vendor Sablon,balon print,balon sablon,jual sablon balon di semarang murah,jual sablon balon sidoarjo murah,Balon printing,harga sablon balon,jual sablon balon bandung murah,sablon balon bandung,sablon balon surabaya,jual sablon balon surabaya,jual sablon balon surabaya murah,balon sablon cirebon,jual balon sablon cirebon,jual balon sablon cirebon murah,balon sablon depok,jual balon sablon depok,jual balon sablon depok murah,balon sablon jogja,jual balon sablon jogja,jual balon sablon jogja murah,balon sablon makasar,jual balon sablon makasar,jual balon sablon makasar murah,balon sablon medan,jual balon sablon medan,jual balon sablon medan murah" />
 <meta name="description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya, Kami menggunakan jasa pengiriman terpercaya sehingga sangat kecil kemungkinanannya untuk terlambat, Harga yang di tawarkan cukup bersaing karena kami produsen bukan reseller, Ketersediaan stock terjamin karena kami memproduksi produk sendiri" />
+<meta name="robots" content="index, nofollow" />
 <meta name="robots" content="index, nofollow" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 function hideURLbar(){ window.scrollTo(0,1); } </script>
