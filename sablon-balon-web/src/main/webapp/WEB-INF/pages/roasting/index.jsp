@@ -12,7 +12,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta property="og:title" content="Vide" />
-<meta name="keywords" content="Balon Sablon Jakarta |Sablon Murah Jakarta | Balon Sablon Surabaya | Home" />
+<meta name="keywords" content="Sablon,Sablon Balon,Balon,Sablon murah,Sablon Jakarta, Sablon Surabaya,Vendor Sablon" />
+<meta name="description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya, Kami menggunakan jasa pengiriman terpercaya sehingga sangat kecil kemungkinanannya untuk terlambat, Harga yang di tawarkan cukup bersaing karena kami produsen bukan reseller, Ketersediaan stock terjamin karena kami memproduksi produk sendiri" />
+<meta name="robots" content="index, nofollow" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--//for-mobile-apps-->
