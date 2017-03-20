@@ -14,8 +14,7 @@
 <meta property="og:title" content="Vide" />
 <meta name="keywords" content="Sablon,Sablon Balon,Balon,Sablon murah,Sablon Jakarta, Sablon Surabaya,Vendor Sablon,balon print,balon sablon,jual sablon balon di semarang murah,jual sablon balon sidoarjo murah,Balon printing,harga sablon balon,jual sablon balon bandung murah,sablon balon bandung,sablon balon surabaya,jual sablon balon surabaya,jual sablon balon surabaya murah,balon sablon cirebon,jual balon sablon cirebon,jual balon sablon cirebon murah,balon sablon depok,jual balon sablon depok,jual balon sablon depok murah,balon sablon jogja,jual balon sablon jogja,jual balon sablon jogja murah,balon sablon makasar,jual balon sablon makasar,jual balon sablon makasar murah,balon sablon medan,jual balon sablon medan,jual balon sablon medan murah" />
 <meta name="description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya, Kami menggunakan jasa pengiriman terpercaya sehingga sangat kecil kemungkinanannya untuk terlambat, Harga yang di tawarkan cukup bersaing karena kami produsen bukan reseller, Ketersediaan stock terjamin karena kami memproduksi produk sendiri" />
-<meta name="robots" content="index, nofollow" />
-<meta name="robots" content="index, nofollow" />
+<meta name="robots" content="index, follow" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--//for-mobile-apps-->
@@ -298,10 +297,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 								<li><i class="glyphicon glyphicon-time" aria-hidden="true"></i>Mon-Sun 08:00 am to 23:00 pm</li>
 							</ul>
 							<div class="social-icon">
-								<a href="#"><i class="icon"></i></a>
-								<a href="#"><i class="icon1"></i></a>
+								<a target="_blank" href="https://www.instagram.com/sablonbalon_id/"><i class="icon"></i></a>
+								<!--  <a href="#"><i class="icon1"></i></a>
 								<a href="#"><i class="icon2"></i></a>
-								<a href="#"><i class="icon3"></i></a>
+								<a href="#"><i class="icon3"></i></a>-->
 							</div>
 						</div>
 						<div class="col-md-3 footer-grid">
