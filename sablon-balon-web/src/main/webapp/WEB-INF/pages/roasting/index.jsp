@@ -11,12 +11,24 @@
 <!--for-mobile-apps-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta property="og:title" content="Vide" />
-<meta name="keywords" content="Sablon,Sablon Balon,Balon,Sablon murah,Sablon Jakarta, Sablon Surabaya,Vendor Sablon,balon print,balon sablon,jual sablon balon di semarang murah,jual sablon balon sidoarjo murah,Balon printing,harga sablon balon,jual sablon balon bandung murah,sablon balon bandung,sablon balon surabaya,jual sablon balon surabaya,jual sablon balon surabaya murah,balon sablon cirebon,jual balon sablon cirebon,jual balon sablon cirebon murah,balon sablon depok,jual balon sablon depok,jual balon sablon depok murah,balon sablon jogja,jual balon sablon jogja,jual balon sablon jogja murah,balon sablon makasar,jual balon sablon makasar,jual balon sablon makasar murah,balon sablon medan,jual balon sablon medan,jual balon sablon medan murah" />
-<meta name="description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya, Kami menggunakan jasa pengiriman terpercaya sehingga sangat kecil kemungkinanannya untuk terlambat, Harga yang di tawarkan cukup bersaing karena kami produsen bukan reseller, Ketersediaan stock terjamin karena kami memproduksi produk sendiri" />
-<meta name="robots" content="index, follow" />
+<meta property="og:title" content="SablonBalon.com - Perusahaan Sablon Balon No 1 Di Indonesia" />
+<meta property="og:description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya,jenis balon yang kami punya balon dove,balon oval dan balon metalic."/>
+<meta name="keywords" content="Balon Printing, Balon Sablon, Jual Balon Printing, Jual Balon Sablon, Balon Dove, Jual Balon Dove, Balon Oval, Jual Balon Oval,Balon Metalic, Jual Balon Metalic" />
+<meta name="description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya,jenis balon yang kami punya balon dove,balon oval dan balon metalic." />
+<meta name="robots" content="noodp,noydir"/>
+<meta name="google-site-verification" content="POcD2wVTfRWSA9TjsF8sXmAdv2EAeGoxdwg-D34TKYQ" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43775406-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <!--//for-mobile-apps-->
 <script src="<s:url value='/Java Script/roasting/jquery.min.js'/>"></script>
 <!---->
