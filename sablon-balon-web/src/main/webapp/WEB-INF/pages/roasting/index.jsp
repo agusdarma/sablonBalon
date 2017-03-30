@@ -15,7 +15,7 @@
 <meta property="og:description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya,jenis balon yang kami punya balon dove,balon oval dan balon metalic."/>
 <meta name="keywords" content="Balon Printing, Balon Sablon, Jual Balon Printing, Jual Balon Sablon, Balon Dove, Jual Balon Dove, Balon Oval, Jual Balon Oval,Balon Metalic, Jual Balon Metalic" />
 <meta name="description" content="Perusahaan sablon balon paling murah dan terpercaya di Jakarta dan di Surabaya,jenis balon yang kami punya balon dove,balon oval dan balon metalic." />
-<meta name="robots" content="noodp,noydir"/>
+<meta name="robots" content="index,follow"/>
 <meta name="google-site-verification" content="POcD2wVTfRWSA9TjsF8sXmAdv2EAeGoxdwg-D34TKYQ" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 function hideURLbar(){ window.scrollTo(0,1); } </script>
