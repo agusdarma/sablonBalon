@@ -65,10 +65,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<span class="menu"><img src="<s:url value='/Resource/roasting/images/menu.png'/>" alt=" " /></span>
 						<nav class="link-effect-3" id="link-effect-3">
 							<ul class="nav1 nav nav-wil">
-								<li class="active"><a data-hover="Home" href="Home.web">Home</a></li>
-								<!-- <li><a data-hover="Services" href="Services.web" >Services</a></li> -->
-								<li><a data-hover="Gallery" href="#">Gallery</a></li>
-								<!-- <li><a data-hover="Codes" href="#">Codes</a></li> -->
+								<li class="active"><a data-hover="Home" href="Home.web">Home</a></li>								
+								<li><a data-hover="Gallery" href="#">Gallery</a></li>								
 								<li><a data-hover="Contact" href="#">Contact</a></li>
 							</ul>
 						</nav>
@@ -101,7 +99,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<h2 class="tittle">Why choose us?? </h2>
 				<div class="best-grids">
 					<div class="col-md-13 best-grid1">
-						<img src="<s:url value='/Resource/roasting/images/picrame.jpg'/>" class="img-responsive gray" alt=""/>
+						<img src="<s:url value='/Resource/roasting/images/picrame.jpg'/>" class="img-responsive gray" alt="contoh hasil sablon balon"/>
 					</div>
 					<div class="col-md-8 best-grid">
 						<h4>What we offer </h4>
@@ -153,62 +151,35 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<div class="special-grids">
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic14.jpg'/>" class="img-responsive gray" alt=""/>
-							<!--<div class="menu-icon hvr-sweep-to-top">
-								<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
-							</div>-->
-						</div>
-						<!--  <div class="menu-bottom">
-							<h4>Fried Chicken</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare odio et massa dignissim, at accumsan metus viverra.</p>
-							<a href="gallery.html" class="button  hvr-sweep-to-bottom">Starting Price  $2.0</a>
-						</div>
-						-->
+							<img src="<s:url value='/Resource/roasting/images/pic14.jpg'/>" class="img-responsive gray" alt="sablon balon giant ekspres"/>							
+						</div>						
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic8.jpg'/>" class="img-responsive gray" alt=""/>
-							<!--<div class="menu-icon hvr-sweep-to-top">
-								<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
-							</div>-->
-						</div>
-						<!--<div class="menu-bottom">
-							<h4>Sandwich</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare odio et massa dignissim, at accumsan metus viverra.</p>
-							<a href="gallery.html" class="button  hvr-sweep-to-bottom">Starting Price  $2.0</a>
-						</div>
-						-->
+							<img src="<s:url value='/Resource/roasting/images/pic8.jpg'/>" class="img-responsive gray" alt="sablon balon popbox.asia"/>							
+						</div>						
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic9.jpg'/>" class="img-responsive gray" alt=""/>
-							<!--<div class="menu-icon hvr-sweep-to-top">
-								<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
-							</div>-->
-						</div>
-						<!--<div class="menu-bottom">
-							<h4>Goat Cheese </h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare odio et massa dignissim, at accumsan metus viverra.</p>
-							<a href="gallery.html" class="button  hvr-sweep-to-bottom">Starting Price  $2.0</a>
-						</div>
-						-->
+							<img src="<s:url value='/Resource/roasting/images/pic9.jpg'/>" class="img-responsive gray" alt="sablon balon pop box"/>							
+						</div>						
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="special-grids">
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic10.jpg'/>" class="img-responsive gray" alt=""/>							
+							<img src="<s:url value='/Resource/roasting/images/pic10.jpg'/>" class="img-responsive gray" alt="sablon balon hisana"/>							
 						</div>						
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic11.jpg'/>" class="img-responsive gray" alt=""/>							
+							<img src="<s:url value='/Resource/roasting/images/pic11.jpg'/>" class="img-responsive gray" alt="sablon balon ultah dhyara"/>							
 						</div>						
 					</div>
 					<div class="col-md-4 menu-grid">
 						<div class="menu1">
-							<img src="<s:url value='/Resource/roasting/images/pic12.jpg'/>" class="img-responsive gray" alt=""/>							
+							<img src="<s:url value='/Resource/roasting/images/pic12.jpg'/>" class="img-responsive gray" alt="sablon balon RSIA UMMI"/>							
 						</div>						
 					</div>
 					<div class="clearfix"></div>
@@ -224,42 +195,21 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="special-grids">
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
-								<img src="<s:url value='/Resource/roasting/images/harga_dove.jpg'/>" class="img-responsive gray" alt=""/>
-								<!-- <div class="menu-icon hvr-sweep-to-top">
-									<i class="glyphicon glyphicon-home" aria-hidden="true"></i>
-								</div> -->
-							</div>
-							<!--<div class="menu-bottom">
-								<h4>Balon Dove</h4>
-								 <p>Balon dove memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> 
-								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.200,- </a>
-							</div>-->
+								<img src="<s:url value='/Resource/roasting/images/harga_dove.jpg'/>" class="img-responsive gray" alt="harga paket sablon balon dove"/>								
+							</div>							
 						</div>
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
-								<img src="<s:url value='/Resource/roasting/images/harga_besar.jpg'/>" class="img-responsive gray" alt=""/>
-								<!-- <div class="menu-icon hvr-sweep-to-top">
-									<i class="glyphicon glyphicon-cutlery" aria-hidden="true"></i>
-								</div> -->
-							</div>
-							<!--<div class="menu-bottom">
-								<h4>Balon Besar</h4>
-								 <p>Balon Besar  memiliki ukuran (Panjang 13 cm  diameter 6 cm)</p> 
-								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.300,- </a>
-							</div>-->
+								<img src="<s:url value='/Resource/roasting/images/harga_besar.jpg'/>" class="img-responsive gray" alt="harga paket sablon balon besar"/>								
+							</div>							
 						</div>
 						<div class="col-md-4 menu-grid">
 							<div class="menu1">
-								<img src="<s:url value='/Resource/roasting/images/harga_metalik.jpg'/>" class="img-responsive gray" alt=""/>
+								<img src="<s:url value='/Resource/roasting/images/harga_metalik.jpg'/>" class="img-responsive gray" alt="harga paket sablon balon metalik"/>
 								<!-- <div class="menu-icon hvr-sweep-to-top">
 									<i class="glyphicon glyphicon-filter" aria-hidden="true"></i>
 								</div> -->
-							</div>
-							<!--<div class="menu-bottom">
-								<h4>Balon Metalik</h4>
-								 <p>Balon Metalik memiliki ukuran (Diameter 11 cm panjang 5 cm)</p> 
-								<a href="#" class="button hvr-sweep-to-bottom">Starting Price Rp 2.600,- </a>
-							</div>-->
+							</div>							
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -267,36 +217,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			</div>
 			<!--mission-->
 		</div>
-		<!--content-->
-		<!--menu-->
-		<!--special dishes-->
-			<!--  <div class="dishes-w3ls">
-				<div class="container">
-					<h3 class="tittle1">Featured Dishes</h3>
-					<div class="dishes-grids">
-						<div class="col-md-8 dishes-grid1">
-							<div class="dishes-top">
-								<div class="col-md-6 dishes-left">
-									<img src="<s:url value='/Resource/roasting/images/d1.jpg'/>" class="img-responsive gray" alt=""/>
-								</div>
-								<div class="col-md-6 dishes-right">
-									<img src="<s:url value='/Resource/roasting/images/d2.jpg'/>" class="img-responsive gray" alt=""/>
-									<img src="<s:url value='/Resource/roasting/images/d3.jpg'/>" class="img-responsive gray" alt=""/>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-						</div>
-						<div class="col-md-4 dishes-grid">
-							<img src="<s:url value='/Resource/roasting/images/d4.jpg'/>" class="img-responsive gray" alt=""/>
-								<h4>special dishes</h4>
-							<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore oluptate velit es pariatur.Quis autem vel eum iure reprehenderit..</p>
-								<a href="#" class="button1 hvr-sweep-to-top">$5.0</a>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				</div>
-			</div>-->
-		<!--special dishes-->
+		
 	</div>
 		<!--footer-->
 			<div class="footer-w3l">
@@ -327,16 +248,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							</ul>
 						</div>
 						<div class="col-md-3 footer-grid">
-							<h4>Popular</h4>
-							<!--  <ul>
-								<li>Desserts</li>
-								<li>Wet Sabzi</li>
-								<li>Chicken</li>
-								<li>Pizza</li>
-								<li>Burger</li>
-								<li>Seafood</li>
-							</ul>
-							-->
+							<h4>Popular</h4>							
 						</div>
 						<div class="col-md-3 footer-grid">
 							<h4> Member Area</h4>
