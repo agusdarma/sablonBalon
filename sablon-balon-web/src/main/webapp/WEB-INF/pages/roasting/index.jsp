@@ -232,7 +232,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 								<li><i class="glyphicon glyphicon-time" aria-hidden="true"></i>Mon-Sun 08:00 am to 23:00 pm</li>
 							</ul>
 							<div class="social-icon">
-								<a target="_blank" href="https://www.instagram.com/sablonbalon_id/"><i class="icon"></i></a>
+								<a target="_blank" href="https://www.instagram.com/sablonbalon_id"><i class="icon"></i></a>
 								<!--  <a href="#"><i class="icon1"></i></a>
 								<a href="#"><i class="icon2"></i></a>
 								<a href="#"><i class="icon3"></i></a>-->
