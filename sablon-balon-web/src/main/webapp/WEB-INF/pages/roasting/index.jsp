@@ -226,7 +226,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="col-md-3 footer-grid">
 							<h4>About</h4>
 							<ul>
-								<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Jalan Duri Intan, Jakarta Barat, Indonesia, 11510</li>
+								<!--  <li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Jalan Duri Intan, Jakarta Barat, Indonesia, 11510</li>-->
 								<li><i class="glyphicon glyphicon-phone" aria-hidden="true"></i>+62 817-4816-268</li>
 								<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:balonsablon@yahoo.com"> balonsablon@yahoo.com</a></li>
 								<li><i class="glyphicon glyphicon-time" aria-hidden="true"></i>Mon-Sun 08:00 am to 23:00 pm</li>
